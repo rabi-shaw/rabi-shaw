@@ -1,6 +1,6 @@
 # Hi, I'm Rabi 👋
 
-MCA Graduate | Data Analyst | Power BI | SQL | Excel | DAX | Java
+BCA Graduate | Data Analyst | Power BI | SQL | Excel | DAX | Java
 
 I build dashboards, analyze business data, and turn data into useful insights.
 
@@ -12,5 +12,5 @@ I build dashboards, analyze business data, and turn data into useful insights.
 
 💻 Tech Stack:
 ---------------------------------------------------------------
-Python | R | MySQL | MicrosoftSQLServer | Matplotlib | NumPy | Pandas | Power Bi | Python | Java |
+Python | R | DAX | MySQL | MicrosoftSQLServer | Matplotlib | NumPy | Pandas | Power Bi | Java |
 
