@@ -6,6 +6,7 @@ I build dashboards, analyze business data, and turn data into useful insights.
 
 
 🌐 Socials:
+---------------------------------------------------------------
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabishaw/)
 
 
