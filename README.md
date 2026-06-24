@@ -11,5 +11,6 @@ I build dashboards, analyze business data, and turn data into useful insights.
 
 
 💻 Tech Stack:
+---------------------------------------------------------------
 Python R MySQL MicrosoftSQLServer  Figma Krita Adobe Premiere Pro Matplotlib NumPy Pandas Plotly Power Bi HTML5
 
