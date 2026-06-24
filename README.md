@@ -1,6 +1,13 @@
+# Hi, I'm Rabi 👋
+
+MCA Graduate | Data Analyst | Power BI | SQL | Excel | DAX | Java
+
+I build dashboards, analyze business data, and turn data into useful insights.
+
+
 🌐 Socials:
-https://www.linkedin.com/in/rabishaw/
+- LinkedIn: https://www.linkedin.com/in/rabishaw/
 
 💻 Tech Stack:
-Python R Azure MySQL MicrosoftSQLServer Canva Figma Krita Adobe Premiere Pro Matplotlib NumPy Pandas Plotly Power Bi HTML5
+Python R MySQL MicrosoftSQLServer  Figma Krita Adobe Premiere Pro Matplotlib NumPy Pandas Plotly Power Bi HTML5
 
